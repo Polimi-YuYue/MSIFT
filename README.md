@@ -1,2 +1,2 @@
 # MSIFT
-Class-imbalance Multi-source Information Fusion Transformer-based Neural Networks for Mechanical Fault Diagnosis with Limited Data
+Experiment code for paper "Short-Term Prediction of Bike-Sharing Demand Using Multi-Source Data: An Attention-Based Graph Convolution LSTM Approach".
