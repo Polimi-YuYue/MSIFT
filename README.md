@@ -3,4 +3,4 @@ Experimental codes for paper "Class-imbalanced Multi-source Information Fusion T
 
 论文正在Under Review！
 代码即将公布，敬请关注，谢谢！
-![image]()
+![image](https://github.com/Polimi-YuYue/MSIFT/blob/main/Framework.jpg)
