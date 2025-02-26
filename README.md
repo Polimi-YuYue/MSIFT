@@ -16,7 +16,7 @@ Data-driven intelligent fault diagnosis methods have emerged as powerful tools f
 
 # Paper
 
-MSIFT: A novel end-to-end mechanical fault diagnosis framework under limited & imbalanced data using multi-source information fusion
+# MSIFT: A novel end-to-end mechanical fault diagnosis framework under limited & imbalanced data using multi-source information fusion
 
 a. Yue Yu, a. Hamid Reza Karimi, b. Len Gelman, c. Ahmet Enis Cetin
 
