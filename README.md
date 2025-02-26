@@ -7,7 +7,7 @@ Experimental codes for paper "MSIFT: A Novel End-to-End Mechanical Fault Diagnos
 
 
 <div align=center>
-<img src="https://github.com/Polimi-YuYue/MSIFT/blob/main/Framework.jpg" width="500px">
+<img src="https://github.com/Polimi-YuYue/MSIFT/blob/main/Framework.png" width="500px">
 </div>
 
 # Abstract
