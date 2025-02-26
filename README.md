@@ -1,11 +1,6 @@
 # MSIFT
 Experimental codes for paper "MSIFT: A Novel End-to-End Mechanical Fault Diagnosis Framework under Limited & Imbalanced Data Using Multi-Source Information Fusion".
 
-
-论文正在Under Review！
-代码即将公布，敬请关注，谢谢！
-
-
 <div align=center>
 <img src="https://github.com/Polimi-YuYue/MSIFT/blob/main/Framework.png" width="500px">
 </div>
